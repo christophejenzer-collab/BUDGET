@@ -170,7 +170,7 @@ Verwalte deine Einnahmen und Ausgaben mit Such- und Filterfunktion:
 ### Sparziele
 Erstelle und verfolge deine Sparziele mit visuellen Fortschrittsbalken:
 
-![Sparziele](docs/screenshots/savingsgoals.png)
+![Sparziele](docs/screenshots/savinggoals.png)
 
 ### Such- und Filterfunktion
 Durchsuche und filtere deine Transaktionen:
