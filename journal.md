@@ -44,6 +44,8 @@ Dokumentation des Entwicklungsprozesses des Budget Trackers - Was lief gut, was 
 - Entscheidung zwischen verschiedenen Technologien
 - Erste Konfrontation mit MongoDB Atlas
 - Unklarheit über Projektumfang
+- Absturz am 26.01.2026, da ich mit GitHub das komplette Frontend überschrieben habe.
+- Neuaufbau am 26.01.2026, da auch die Sicherungsdateien überschrieben waren. Log vergebens gesucht.
 
 **Erkenntnisse:**
 - MongoDB Atlas bietet kostenloses Tier → perfekt für das Projekt
