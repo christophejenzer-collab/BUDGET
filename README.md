@@ -131,6 +131,30 @@ npm start
 
 ---
 
+## 🐳 Docker Schnellstart (Empfohlen für Dozenten)
+
+**Einfachster Weg:** Mit Docker läuft alles mit einem Befehl!
+```bash
+# Repository klonen
+git clone https://github.com/christophejenzer-collab/BUDGET.git
+cd BUDGET
+
+# .env konfigurieren (MongoDB Connection String)
+cp backend/.env.example backend/.env
+# Trage deinen MongoDB Atlas URI ein
+
+# Starten
+docker-compose up
+```
+
+Fertig! ✅
+- Frontend: http://localhost:3000
+- Backend: http://localhost:5000
+
+📄 **Detaillierte Docker-Anleitung:** [DOCKER.md](DOCKER.md)
+
+---
+
 ## 💻 Verwendung
 
 ### 1. Transaktion hinzufügen
