@@ -155,6 +155,30 @@ npm start
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard-Übersicht
+Die Hauptansicht zeigt Einnahmen, Ausgaben, Saldo und alle Funktionen:
+
+![Dashboard](docs/screenshots/Dashboard.png)
+
+### Transaktionsliste
+Verwalte deine Einnahmen und Ausgaben mit Such- und Filterfunktion:
+
+![Transaktionen](docs/screenshots/transactions.png)
+
+### Sparziele
+Erstelle und verfolge deine Sparziele mit visuellen Fortschrittsbalken:
+
+![Sparziele](docs/screenshots/savingsgoals.png)
+
+### Such- und Filterfunktion
+Durchsuche und filtere deine Transaktionen:
+
+![Suche und Filter](docs/screenshots/searchfilter.png)
+
+---
+
 ## 📡 API-Dokumentation
 
 ### Base URL
