@@ -11,6 +11,7 @@ function Dashboard() {
   const [searchTerm, setSearchTerm] = useState('');
   const [filterType, setFilterType] = useState('all');
 
+// eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
     fetchTransactions();
     fetchSavingsGoals();
